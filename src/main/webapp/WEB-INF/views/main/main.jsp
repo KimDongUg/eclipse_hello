@@ -8,7 +8,7 @@
   request.setCharacterEncoding("UTF-8");
 %> 
 
-test
+test1111
 <div id="ad_main_banner">
 	<ul class="bjqs">	 	
 	  <li><img width="775" height="145" src="${contextPath}/resources/image/main_banner01.jpg"></li>
